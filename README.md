@@ -1,16 +1,27 @@
-### Hi there 👋
+# About-Me
 
-<!--
-**AnkitSingh0702/AnkitSingh0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there My self Ankit Singh 
 
-Here are some ideas to get you started:
+-  I’m interested in Web Development.
+-  I’m currently learning JavaScript and React.js
+-  I'm learning java as well... I have been learned the C language.
+-  I like to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Study
+- I am purchasing B.Tech from 
+  <a href="https://www.soa.ac.in/">
+    Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
+  </a>
+- <a href="https://www.soa.ac.in/iter">
+    Institute of Technical Education & Research Bhubaneswar Odisha.
+  </a>
+
+## GitHub Stats
+
+![Pavitra's Stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&count_private=true&show_icons=true&theme=radical) 
+
+## Language's
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh0702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Thanks For Visiting.
