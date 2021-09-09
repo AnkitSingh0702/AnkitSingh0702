@@ -18,7 +18,7 @@
 
   ## Contact me
 
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/ankit-singh-6a1428201/">
     <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a><br/>
 
