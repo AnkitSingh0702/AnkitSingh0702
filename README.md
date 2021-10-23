@@ -1,6 +1,3 @@
-<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width="100%">
-
-
 ## Hi there My self Ankit Singh 
 
 -  I’m interested in Web Development.
