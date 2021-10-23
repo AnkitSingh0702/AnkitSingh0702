@@ -1,3 +1,6 @@
+<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width="100%">
+
+
 ## Hi there My self Ankit Singh 
 
 -  I’m interested in Web Development.
@@ -19,6 +22,35 @@
   <a href="https://www.linkedin.com/in/ankit-singh-6a1428201/">
     <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a><br/>
+  
+  ## Comfortable With Programming Languages 
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a><a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://redux-toolkit.js.org/">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  </a>
+  <a href="https://www.framer.com/motion/">
+   <img src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+  </a>
+  <a href="https://reactrouter.com/">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  </a>
+  <a  href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <a href="https://www.java.com/en/">
+    <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  <a >
+    <img alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a><a href="https://www.w3schools.com/html/">
+    <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a><a href="https://www.w3schools.com/css/">
+    <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
 
 ## GitHub Stats
 
@@ -29,4 +61,4 @@
 
 <img height="300" src="https://octodex.github.com/images/original.png" />
 
-## Thanks For Visiting.
+## Thank You So much For Visiting.
