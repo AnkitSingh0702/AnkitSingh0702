@@ -27,7 +27,6 @@
 ## Language's
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh0702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="300" src="https://octodex.github.com/images/original.png" />
 
 ## Thanks For Visiting.
-
-<img height="300" src="https://octodex.github.com/images/original.png" />
