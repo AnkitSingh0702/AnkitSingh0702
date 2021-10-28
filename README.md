@@ -1,4 +1,4 @@
-<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="50%">
+<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="700">
 
 ## Hi there My self Ankit Singh 
 
@@ -50,7 +50,8 @@
   </a><a href="https://www.w3schools.com/css/">
     <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-
+  
+  
 ## GitHub Stats
 
 ![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&count_private=true&show_icons=true&theme=radical) 
