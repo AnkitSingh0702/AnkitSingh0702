@@ -22,7 +22,7 @@
     <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a><br/>
   
-  ## Comfortable With Programming Languages 
+  ## Programming Stack
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a><a href="https://reactjs.org/">
@@ -47,8 +47,12 @@
     <img alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a><a href="https://www.w3schools.com/html/">
     <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a><a href="https://www.w3schools.com/css/">
+  </a>
+  <a href="https://www.w3schools.com/css/">
     <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
   
   
