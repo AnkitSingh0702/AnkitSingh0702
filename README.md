@@ -54,6 +54,9 @@
   <a href="https://tailwindcss.com/">
     <img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
   
   
 ## GitHub Stats
