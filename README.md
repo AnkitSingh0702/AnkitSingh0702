@@ -1,4 +1,4 @@
-<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="700" align="center">
+ <p align="center"><img src="./github.gif" width="700"/> </p>
 
 ## Hi there My self Ankit Singh 
 
@@ -61,12 +61,12 @@
   
 ## GitHub Stats
 
-![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&count_private=true&show_icons=true&theme=radical) 
+<p align="center">  ![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&count_private=true&show_icons=true&theme=radical) </p>
 
-<p ><img src="https://activity-graph.herokuapp.com/graph?username=AnkitSingh0702" alt ="AnkitSingh0702" width="600" /></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=AnkitSingh0702" alt ="AnkitSingh0702" width="600" /></p>
 
 ## Language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh0702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh0702&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 
 
