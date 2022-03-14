@@ -3,7 +3,7 @@
 ## Hi there My self Ankit Singh 
 
 -  I’m interested in Web Development.
--  I’m currently learning JavaScript and React.js
+-  I’m currently learning ReactNative.
 -  I'm learning java as well... I have been learned the C language.
 -  I like to learn new technologies.
 
@@ -50,6 +50,9 @@
   </a><a href="https://www.typescriptlang.org/">
     <img alt="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
+  <a href="https://firebase.google.com/">
+    <img  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  </a>
   
  ## Tool's
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
@@ -64,12 +67,13 @@
  
 ## GitHub Stats
 
-  ![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&count_private=true&show_icons=true&theme=radical) 
+  <img src= "https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&theme=blue-green" />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=AnkitSingh0702" alt ="AnkitSingh0702" width="600" /></p>
 
 ## Language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh0702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh0702&theme=blue-green" />
+
 
 
 
