@@ -1,4 +1,4 @@
- <p align="center"><img src="https://cdn.dribbble.com/users/3167791/screenshots/6985884/media/24a18f00aa2faee3b0dedbc1b13c98fc.jpg" width="600"/> </p>
+ <p align="center"><img src="https://cdn.dribbble.com/users/3167791/screenshots/6985884/media/24a18f00aa2faee3b0dedbc1b13c98fc.jpg" width="800"/> </p>
  
 ## Hi there My self Ankit Singh 
 
