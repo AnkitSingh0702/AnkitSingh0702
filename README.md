@@ -23,7 +23,8 @@
  ## Programming Stack
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  </a><a href="https://reactjs.org/">
+  </a>
+  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
   <a href="https://redux-toolkit.js.org/">
@@ -40,9 +41,9 @@
   </a>
   <a href="https://www.java.com/en/">
     <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a><a >
-    <img alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a><a href="https://www.w3schools.com/html/">
+  </a>
+ 
+  <a href="https://www.w3schools.com/html/">
     <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a><a href="https://www.w3schools.com/css/">
     <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -56,6 +57,9 @@
   </a>
   <a href="https://firebase.google.com/">
     <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFBColor=black">
+  </a>
+   <a>
+    <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
   
  ## Tool's
