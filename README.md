@@ -3,7 +3,8 @@
 ## Hi there My self Ankit Singh 
 
 -  I’m interested in Web Development.
--  I’m currently learning ReactNative.
+-  I’m currently learning Node Js.
+-  I’m currently working on React.js, Next.js and React Native
 -  I'm learning java as well... I have been learned the C language.
 -  I like to learn new technologies.
 
