@@ -5,7 +5,6 @@
 -  I’m interested in Web Development.
 -  I'm currently working in React js ,Next js,React Native
 -  I’m currently learning Node Js.
--  I’m currently working on React.js, Next.js and React Native
 -  I'm learning java as well... I have been learned the C language.
 -  I like to learn new technologies.
 
