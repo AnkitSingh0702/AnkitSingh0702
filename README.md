@@ -1,4 +1,4 @@
- <p align="center"><img src="https://cdn.dribbble.com/users/3167791/screenshots/6985884/media/24a18f00aa2faee3b0dedbc1b13c98fc.jpg" width="800"/> </p>
+ <p ><img src="https://cdn.dribbble.com/users/3167791/screenshots/6985884/media/24a18f00aa2faee3b0dedbc1b13c98fc.jpg" width="800"/> </p>
  
 ## Hi there My self Ankit Singh 
 
@@ -8,19 +8,7 @@
 -  I'm learning java as well... I have been learned the C language.
 -  I like to learn new technologies.
 
-## Study
-- I am purchasing B.Tech from 
-  <a href="https://www.soa.ac.in/">
-    Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
-  </a>
-
- ## Contact me
-
-  <a href="https://www.linkedin.com/in/ankit-singh-6a1428201/">
-    <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a><br/>
-  
- ## Programming Stack
+## Programming Stack
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
@@ -62,7 +50,7 @@
     <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
   
- ## Tool's
+   ## Tool's
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -72,12 +60,34 @@
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+
+## Study
+- I am purchasing B.Tech from 
+  <a href="https://www.soa.ac.in/">
+    Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
+  </a>
+
+ ## Contact me
+
+  <a href="https://www.linkedin.com/in/ankit-singh-6a1428201/">
+    <img alt="" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/ankitsingh0702/">
+    <img alt="" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+   <a href="mailto:as.ankitsingh0702@gmail.com">
+    <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+ 
+  
+
  
 ## GitHub Stats
 
   <img src= "https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&theme=blue-green" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=AnkitSingh0702" alt ="AnkitSingh0702" width="600" /></p>
+
 
 ## Language's
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh0702&theme=blue-green" />
