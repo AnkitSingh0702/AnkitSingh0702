@@ -62,7 +62,7 @@
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 
 ## Study
-- I am purchasing B.Tech from 
+- I am pursuing B.Tech from 
   <a href="https://www.soa.ac.in/">
     Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
   </a>
