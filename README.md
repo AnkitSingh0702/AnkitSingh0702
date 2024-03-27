@@ -61,11 +61,6 @@
 <a><img height="35px" alt="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 
-## Study
-- I am pursuing B.Tech from 
-  <a href="https://www.soa.ac.in/">
-    Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
-  </a>
 
  ## Contact me
 
