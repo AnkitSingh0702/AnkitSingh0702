@@ -1,4 +1,4 @@
- <p align="center"><img src="/githubpic.png" width="500"  /> </p>
+ <p align="center"><img src="/githubpic.png" width="400"  /> </p>
  
 ## Hi there My self Ankit Singh 
 
