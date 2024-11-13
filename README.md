@@ -80,7 +80,11 @@
  
 ## GitHub Stats
 
-  <img src= "https://github-readme-stats.vercel.app/api?username=AnkitSingh0702&theme=blue-green" />
+ 
+
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AnkitSingh0702" target="_blank">
+  <img src="https://stats.quira.sh/AnkitSingh0702/github?theme=dark" width="48%"> 
+</a>
 
 
 
