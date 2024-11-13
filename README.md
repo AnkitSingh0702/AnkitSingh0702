@@ -88,7 +88,9 @@
 
 
 
-
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=AnkitSingh0702" target="_blank" >
+  <img src="https://stats.quine.sh/AnkitSingh0702/dependencies?theme=dark" width="48%"> 
+</a>
 
 
 
