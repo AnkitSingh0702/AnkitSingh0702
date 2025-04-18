@@ -1,6 +1,6 @@
  <p align="center"><img src="/githubpic.png" width="400"  /> </p>
  
-## Hi there My self Ankit Singh 
+## Hi there myself Ankit Singh 
 
 -  I’m interested in Web Development.
 -  I'm currently working in React js ,Next js,React Native
@@ -82,7 +82,7 @@
 
  
 
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AnkitSingh0702" target="_blank">
+<!--<a href="https://quira.sh?utm_source=widgets&utm_campaign=AnkitSingh0702" target="_blank">
   <img src="https://stats.quira.sh/AnkitSingh0702/github?theme=dark" width="48%"> 
 </a>
 
@@ -90,8 +90,9 @@
 
 <a href="https://quine.sh?utm_source=widgets&utm_campaign=AnkitSingh0702" target="_blank" >
   <img src="https://stats.quine.sh/AnkitSingh0702/dependencies?theme=dark" width="48%"> 
-</a>
-
+</a>-->
+![Ankit0702's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh0702)
+![Ankit0702's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitSingh0702&theme=blue-green)
 
 
 
