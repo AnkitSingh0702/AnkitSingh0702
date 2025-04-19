@@ -1,11 +1,11 @@
  <p align="center"><img src="/githubpic.png" width="400"  /> </p>
  
-## Hi there myself Ankit Singh 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0F6F7&width=435&lines=Hi+there+%F0%9F%91%8B%2C+Myself+Ankit+Singh)](https://git.io/typing-svg)
 
 -  I’m interested in Web Development.
--  I'm currently working in React js ,Next js,React Native
--  I’m currently learning Node Js.
--  I'm learning java as well... I have been learned the C language.
+-  I'm currently working in React js ,Next js based frameworks
+-  I’m currently learning Node Js
+-  I'm learning Python as well.. .
 -  I like to learn new technologies.
 
 ## Programming Stack
@@ -46,8 +46,11 @@
   <a href="https://firebase.google.com/">
     <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFBColor=black">
   </a>
-   <a>
-    <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <a href="">
+    <img  src="https://img.shields.io/badge/python-%2335495e.svg?style=for-the-badge&logo=python&logoColor=%234FC08D">
+  </a>
+    <a href="">
+    <img  src="https://img.shields.io/badge/pandas-%2335495e.svg?style=for-the-badge&logo=pandas&logoColor=%234FC08D">
   </a>
   
    ## Tool's
@@ -55,8 +58,6 @@
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-<a><img height="35px" alt="" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
-<a><img height="35px" alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <a><img height="35px" alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
@@ -73,6 +74,7 @@
    <a href="mailto:as.ankitsingh0702@gmail.com">
     <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  
   
  
   
