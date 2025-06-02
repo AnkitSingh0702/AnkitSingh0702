@@ -6,7 +6,7 @@
 -  I'm currently working in React js ,Next js based frameworks
 -  I’m currently learning Node Js
 -  I'm learning Python as well.. .
-
+-  I like to learn new technologies.
 
 ## Programming Stack
   <a href="https://nextjs.org/">
