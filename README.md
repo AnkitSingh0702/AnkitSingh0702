@@ -94,7 +94,9 @@
   <img src="https://stats.quine.sh/AnkitSingh0702/dependencies?theme=dark" width="48%"> 
 </a>-->
 ![Ankit0702's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh0702)
-![Ankit0702's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitSingh0702&theme=blue-green)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitsingh0702&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
